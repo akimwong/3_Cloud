@@ -11,6 +11,7 @@ At the end of this challenge I intend to be consistently creating content for al
 
 &#x2601;
 &#9729;
+&#10239;
 
 ## Stepping out the door
 
