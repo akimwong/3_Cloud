@@ -13,6 +13,7 @@ At the end of this challenge I intend to be consistently creating content for al
 &#9729;
 &#10239;
 &#x2A50;
+&#x2117;
 
 ## Stepping out the door
 
