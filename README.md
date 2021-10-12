@@ -11,4 +11,4 @@ At the end of this challenge I intend to be consistently creating content for al
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [Setup](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Setup](3_Cloud/Journey/001/Readme.md)
