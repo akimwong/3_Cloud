@@ -4,7 +4,7 @@
 
 # Cloud
 
-This code will be used to practice with the different AWS tools, avoiding as much as possible the use of the console interface, and using the SDK boto3 (Python) to obtain the certifications of solution architect, machine learning and data analytics.
+This code will be used to practice with the different AWS tools, avoiding as much as possible the use of the console interface, and using the SDK boto3 (Python) to obtain the solution architect, machine learning and data analytics certifications.
 
 # 1. Solution Architect
 
