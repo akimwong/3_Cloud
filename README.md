@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cloud.png">
+  <img src="Cloud.png" width="800" height="200">
 </p>
 
 # Cloud
