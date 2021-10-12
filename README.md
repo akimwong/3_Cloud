@@ -5,7 +5,7 @@
 # Cloud
 
 
-# 1. Solution architect
+# 1. Solution Architect
 
 ## 1.1. IAM & AWS CLI
 - [ ] ☁️ 1.1.1. > [Setup](Journey/1001/Readme.md)
@@ -84,7 +84,7 @@
 
 
 
-# 2. Machine learning
+# 2. Machine Learning
 
 ## 2.1. Data Engenieering
 
@@ -101,7 +101,7 @@
 ## 2.5. Wrapping Up
 
 
-# 3. Data analytics
+# 3. Data Analytics
 
 ## 3.1. Collection
 
