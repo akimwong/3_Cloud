@@ -19,6 +19,73 @@
 - [ ] ☁️ 1.3.1. > [Setup](Journey/1001/Readme.md)
 - [ ] ☁️ 1.3.2. > [Users](Journey/1002/Readme.md)
 
+## 1.4. EC2 Instance Storage
+
+
+## 1.5. High Availability and Scalability: ELB & ASG
+
+
+## 1.6. AWS Fundamentals: RDS + Aurora + ElastiCache
+
+
+## 1.7. Route 53
+
+
+## 1.8. Classic Solutions Architecture Discussions
+
+
+## 1.9. Amazon S3 Introduction
+
+
+## 1.10. AWS SDK, IAM Roles & Policies
+
+
+## 1.11. Advanced Amazon S3 & Athena
+
+
+## 1.12. CloudFront & AWS Global Accelerator
+
+
+## 1.13. AWS Storage Extras
+
+
+## 1.14. Decoupling applications: SQS, SNS, Kinesis, Active MQ
+
+
+## 1.15. Containers on AWS: ECS, Fargate, ECR & EKS
+
+
+## 1.16. Serverless Overviews from a Solution Architect Perspective
+
+
+## 1.17. Serverless Solution Architecture Discussions
+
+
+## 1.18. Databases in AWS
+
+
+## 1.19. AWS Monitoring & Audit: CloudWatch, CloudTrail & Config
+
+
+## 1.20. Identity and Access Management (IAM) - Advanced
+
+
+## 1.21. AWS Security & Encryption: KMS, SSM Parameter S…
+
+
+## 1.22. Networking - VPC
+
+
+## 1.23. Disaster Recovery & Migrations
+
+
+## 1.24. More Solution Architectures
+
+
+## 1.25. Other Services
+
+
+
 # 2. Machine learning
 
 - [ ] ☁️ 2.0.1. > [Setup](Journey/1001/Readme.md)
