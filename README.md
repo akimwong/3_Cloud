@@ -88,9 +88,37 @@
 
 # 2. Machine learning
 
+## 2.1. Data Engenieering
+
 - [ ] ☁️ 2.0.1. > [Setup](Journey/1001/Readme.md)
 - [ ] ☁️ 2.0.2. > [Setup](Journey/1001/Readme.md)
 
+## 2.2. Exploratory Data Analysis
+
+
+## 2.3. Modeling
+
+
+## 2.4. ML Implementations & Operations
+
+
+## 2.5. Wrapping Up
+
+
 # 3. Data analytics
+
+## 3.1. Collection
 - [ ] ☁️ 3.0.1. > [Setup](Journey/1001/Readme.md)
 - [ ] ☁️ 3.0.2. > [Setup](Journey/1001/Readme.md)
+
+## 3.2. Storage
+
+## 3.3. Processing
+
+## 3.4. Analysis
+
+## 3.5. Visualizationn
+
+## 3.6. Security
+
+## 3.7. Everything else
