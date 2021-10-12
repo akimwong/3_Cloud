@@ -70,7 +70,7 @@
 ## 1.20. Identity and Access Management (IAM) - Advanced
 
 
-## 1.21. AWS Security & Encryption: KMS, SSM Parameter S…
+## 1.21. AWS Security & Encryption: KMS, SSM Parameter Store, Cloud HSM, Shield, WAF
 
 
 ## 1.22. Networking - VPC
