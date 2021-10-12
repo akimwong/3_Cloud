@@ -4,12 +4,13 @@
 
 # Cloud
 
+This code will be used to practice with the different AWS tools, avoiding as much as possible the use of the console interface, and using the SDK boto3 (Python) to obtain the certifications of solution architect, machine learning and data analytics.
 
 # 1. Solution Architect
 
 ## 1.1. IAM & AWS CLI
-- [ ] ☁️ 1.1.1. > [Setup](Journey/1001/Readme.md)
-- [ ] ☁️ 1.1.2. > [Users](Journey/1002/Readme.md)
+- [ ] ☁️ 1.1.1. > [Setup](Journey/1101/Readme.md)
+- [ ] ☁️ 1.1.2. > [Users](Journey/1102/Readme.md)
 
 ## 1.2. EC2 Fundamentals
 
