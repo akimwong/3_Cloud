@@ -1,4 +1,6 @@
-# Steps
+# Set Up the AWS Platform
+
+## Steps:
 
 1º [Create a personal AWS account (in spanish)](https://www.youtube.com/watch?v=8AUWxW14lhk&t=4s) to start the practice (you `MUST` include the credit limit alarms described in the video)<br/>
 2º [Generate the Access Key/Secret Access Key (in spanish)](https://www.youtube.com/watch?v=_zMCdUndHy0&t=239s) and set up in your computer to communicate in a programatic way with AWS <br/>
