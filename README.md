@@ -4,18 +4,23 @@
 
 # Cloud
 
-## Solution architect
 
-Practice different issues 
+# 1. Solution architect
 
-## Machine learning
+## 1.1. IAM & AWS CLI
+- [ ] ☁️ 1.1.1. > [Setup](Journey/001/Readme.md)
+- [ ] 
 
-Practice architectural issues using 
-Analyze and process standard datasets with different languages & libraries.
-I intend to use, AWS, and other cloud components of cloud/ data engineering. 
-
+## EC2 Fundamentals
 
 
-## Stepping out the door
 
-- [ ] ☁️ 1 > [Setup](3_Cloud/Journey/001/Readme.md)
+# 2. Machine learning
+
+- [ ] ☁️ 1 > [Setup](Journey/001/Readme.md)
+- [ ] 
+
+# 3. Data analytics
+
+- [ ] ☁️ 1 > [Setup](Journey/001/Readme.md)
+- [ ] 
