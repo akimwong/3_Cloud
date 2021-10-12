@@ -1,4 +1,4 @@
-# Set Up the AWS Platform
+# AWS Platform SetUp
 
 Steps:<br/>
 <br/>
