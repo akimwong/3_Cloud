@@ -1,7 +1,6 @@
 <p align="left">
   <img src="IAM.png" width="50" height="50">
 </p>
-
-[boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/iam.html#user)
+[IAM](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/iam.html#user)
 
 # HOLA!
