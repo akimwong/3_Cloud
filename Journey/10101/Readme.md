@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="SDK.png" width="50" height="50"></p>
+
 # AWS Platform SetUp
 
 Steps:<br/>
