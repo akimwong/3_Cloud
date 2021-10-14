@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="SDK2.png" width="50" height="50"></p>
+  <img src="SDK.png" width="50" height="50">
+  <img src="SDK2.png" width="150" height="100"></p>
 
 # AWS Platform SetUp
 
