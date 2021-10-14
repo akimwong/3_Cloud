@@ -1,5 +1,5 @@
 <p align="left">
-  [<img src="SDK.png" width="50" height="50">](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)</p>
+  <[img src="SDK.png" width="50" height="50"](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)></p>
 
 # AWS Platform SetUp
 
