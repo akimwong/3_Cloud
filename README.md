@@ -8,11 +8,13 @@ This code will be used to practice with the different AWS tools, avoiding as muc
 <br/>
 The IDE used to write the code is Jupyter Notebooks.
 
+#### >>> The following is the list of points that are planned to be covered. Those that contain the symbol (!) Are those that currently contain information <<<
+
 # 1. Solution Architect
 
 ## 1.1. IAM & AWS CLI
-- [ ] ☁️ 1.1.1. > [Platform SetUp](Journey/10101/Readme.md)
-- [ ] ☁️ 1.1.2. > [Create Users](Journey/10102/Readme.md)
+- [ ] ☁️ 1.1.1. > [Platform SetUp (!)](Journey/10101/Readme.md)
+- [ ] ☁️ 1.1.2. > [Create Users (!)](Journey/10102/Readme.md)
 
 ## 1.2. EC2 Fundamentals
 
