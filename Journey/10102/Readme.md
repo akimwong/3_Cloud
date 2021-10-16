@@ -7,3 +7,8 @@
 
 # HOLA!
 
+- `One user` represents `one person` in your organization
+- Users don't have to belong to a group
+- One user can belong to multiple groups
+- Users can be grouped
+- Groups can only contain users, not other groups
