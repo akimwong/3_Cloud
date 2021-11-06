@@ -4,7 +4,7 @@
 
 # Cloud
 
-This code will be used to practice with the different AWS tools, avoiding as much as possible the use of the console interface, and using the SDK boto3 (Python) to obtain the solution architect, machine learning and data analytics certifications.  <br/>
+This code will be used to practice with the different AWS tools, avoiding as much as possible the use of the console interface, and using the SDK [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html#) (Python) to obtain the solution architect, machine learning and data analytics certifications.  <br/>
 <br/>
 The IDE used to write the code is Jupyter Notebooks (in local or using Google Colab).
 
