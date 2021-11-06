@@ -5,5 +5,6 @@
 
 - Roles have associated permissions that allow or deny specific actions
 - These roles can be assumed for `temporary amounts of time` 
-- You use roles to temporarily grant access to `AWS resources, users, external identities, applications, and even other AWS services`
+- They are intended to be used not by physical people, but instead that will be used by AWS services 
 - IAM roles are ideal for situations in which access to services or resources needs to be granted temporarily, instead of long-term
+- Almost all services in AWS can use roles, but a very common use case to create a role are EC2 instances and lambda functions
