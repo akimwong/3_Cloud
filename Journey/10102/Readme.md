@@ -12,6 +12,3 @@
 - One user can belong to multiple groups
 - Groups can only contain users, not other groups
 - When you create an IAM user, by default, it has NO permissions
-- You have to explicitly give the user permission to do anything in that account
-- The way that you grant or deny permission is to associate what is called an `IAM policy` to an IAM user
-- You can attach a policy to a group and all of the users in that group will have those permissions
