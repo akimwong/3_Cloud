@@ -17,6 +17,7 @@ The IDE used to write the code is Jupyter Notebooks (in local or using Google Co
 - [ ] ☁️ 1.1.2. > [Users & Groups (!)](Journey/10102)
 - [ ] ☁️ 1.1.3. > [IAM Policy (!)](Journey/10103)
 - [ ] ☁️ 1.1.4. > [Multi Factor Athentication - MFA (!)](Journey/10104)
+- [ ] ☁️ 1.1.5. > [IAM Role (!)](Journey/10105)
 
 ## 1.2. EC2 Fundamentals
 
