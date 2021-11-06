@@ -8,4 +8,4 @@
 - A policy define the list of actions can perform and the resources those actions can affect
 - When you create IAM users, groups of users, or roles, by default, they have NO permissions
 - You have to explicitly give permission to do anything
-- The way that you grant or deny permission is to associate what is called an `IAM policy`
+- The way that you grant or deny permission is to associate them with what is called an `IAM policy`
