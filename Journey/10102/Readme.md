@@ -1,6 +1,5 @@
 <p align="left">
   <img src="IAM.png" width="50" height="50">
-  <img src="Permissions.png" width="50" height="50">
   <img src="LongTermSecCred.png" width="50" height="50">
   <img src="Role.png" width="50" height="50"></p>
 
