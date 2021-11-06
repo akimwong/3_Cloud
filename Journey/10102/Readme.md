@@ -10,4 +10,4 @@
 - Users don't have to belong to a group
 - One user can belong to multiple groups
 - Groups can only contain users, not other groups
-- When you create an IAM user, by default, it has NO permissions
+- When you create an IAM user, a group of users, or a role, by default, they have NO permissions
