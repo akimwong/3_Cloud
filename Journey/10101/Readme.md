@@ -1,5 +1,4 @@
 <p align="left">
-  <img src="SDK.png" width="50" height="50">
   <img src="Budgets.png" width="50" height="50"></p>
 
 # AWS Platform SetUp
@@ -11,6 +10,9 @@ Steps:<br/>
 3ª CLOSE the ROOT account and storage the access information in a safe place.  Now, you can interact with AWS<br/>
 4º [Access to boto3 official documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) that contains all the syntaxis, commands, tools and options that can be use to interact with AWS <br/>
 
+<p align="left">
+  <img src="SDK.png" width="50" height="50"></p>
+  
 ## WHY TO USE CLI/SDK INSTEAD CONSOLE?
 
 Through the console, you can manage your AWS resources visually and in a way that is easy to digest. `THIS IS GREAT FOR GETTING STARTED AND BUILDING YOUR KNOWLEDGE` of the services. It's also useful for building out test environments or viewing AWS bills, viewing monitoring and working with other non technical resources. The AWS Management Console is most likely the first place you will go when you are learning about AWS 
