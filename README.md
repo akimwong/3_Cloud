@@ -21,7 +21,7 @@ The IDE used to write the code is Jupyter Notebooks (in local or using Google Co
 - [ ] ☁️ 1.1.6. > [IAM Security Tools (!)](Journey/10106)
 
 ## 1.2. EC2 Fundamentals
-
+- [ ] ☁️ 1.2.1. > [Budget Setup (!)](Journey/10201)
 
 ## 1.3. EC2 Solutions Architect Associate Level
 
