@@ -3,5 +3,7 @@
 
 # [IAM ROLE](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/iam.html?highlight=role#IAM.Role)
 
-- Combines the password that you know with a security device that you own
-- Even a user lost her password (stolen or hacked) the account will not be compromised because the hacker will need to also get a hold of the physical device to do a login
+- Roles have associated permissions that allow or deny specific actions
+- These roles can be assumed for `temporary amounts of time` 
+- You use roles to temporarily grant access to `AWS resources, users, external identities, applications, and even other AWS services`
+- IAM roles are ideal for situations in which access to services or resources needs to be granted temporarily, instead of long-term
