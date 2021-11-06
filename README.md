@@ -14,7 +14,7 @@ The IDE used to write the code is Jupyter Notebooks (in local or using Google Co
 
 ## 1.1. IAM & AWS CLI
 - [ ] ☁️ 1.1.1. > [Platform SetUp (!)](Journey/10101/Readme.md)
-- [ ] ☁️ 1.1.2. > [Create Users (!)](Journey/10102/Readme.md)
+- [ ] ☁️ 1.1.2. > [Users & Groups (!)](Journey/10102/Readme.md)
 - [ ] ☁️ 1.1.3. > [IAM Policy (!)](Journey/10103/Readme.md)
 
 ## 1.2. EC2 Fundamentals
