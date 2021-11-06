@@ -1,5 +1,3 @@
-# IAM POLICY
-
 <p align="left">
   <img src="Permissions.png" width="50" height="50">
 
