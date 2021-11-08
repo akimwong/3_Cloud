@@ -1,5 +1,4 @@
 ## EC2
-
 1. To provide Infrastructure As A Service (IAAS) in AWS
 2. Can be use as OS Linux, Windows an Mac
 3. You can select how much:
@@ -9,3 +8,6 @@
 - Network card (speed of the card and public IP)
 - Firewall rules (security group)
 - Bootstrap script (EC2 user data, to use at first launch)
+
+### EC2 user data
+Bootstrapping means launching commands when a machine starts.  That sript is only run once at the instant first ***start***
