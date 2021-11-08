@@ -10,4 +10,10 @@
 - Bootstrap script (EC2 user data, to use at first launch)
 
 ### EC2 user data
-Bootstrapping means launching commands when a machine starts.  That sript is only run once at the instant first ***start***
+1. Bootstrapping means launching commands when a machine starts.  
+2. That sript is **only run once** at the instant **first start**
+3. 'EC2 user data' is used to automate boot task such as:
+- Installing updates
+- Installing software
+- Downloading common files from the internet
+4. The EC2 User Data Script runs with the root user
