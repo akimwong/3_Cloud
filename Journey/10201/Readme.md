@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="EC2.png" width="50" height="50">
+
 ## EC2
 1. To provide Infrastructure As A Service (IAAS) in AWS
 2. Can be use as OS Linux, Windows an Mac
