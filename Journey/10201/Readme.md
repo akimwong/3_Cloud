@@ -19,4 +19,5 @@
 - Installing updates
 - Installing software
 - Downloading common files from the internet
+- ...
 4. The EC2 User Data Script runs with the root user
