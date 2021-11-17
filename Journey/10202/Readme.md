@@ -6,3 +6,9 @@
 
 <p align="center">
   <img src="/Journey/10202/ec2.PNG" width="300" height="140"></p>
+
+### GENERAL PURPOSE:
+(Mac. Tx, Mx, A1)
+- Great for a diversity of workloads such as web servers or code repositories
+- With a good balance between Compute - Memory - Networking
+- 
