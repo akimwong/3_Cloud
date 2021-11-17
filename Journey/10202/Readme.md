@@ -22,10 +22,19 @@ Great for compute-intensive task that require high performance processors
 - Scientific modeling & machine learning
 - Dedicated gaming servers)
 
-### MEMORY OPTIMIZEDD
+### MEMORY OPTIMIZED
 (R6g, R5, R5a, R5b, R5n, R4, X1e, X1, HighMemory, z1d)    R: RAM
 Fast performance for workloads that process large data sets in memory
 - High performance, relational/non relational databases
 - Distributed web scale cache stores
 - In memory databases optimized for BI
 - Applications performing real-time processing of big unstructured data 
+
+### STORAGE OPTIMIZED
+(l3, l3en, D2, D3, D3en, H1)
+Great for storage-intensive tasks that require high, sequential read and write access to large data sets on local storage
+- High frequency online transaction processing (OLTP) systems
+- Relational & NoSQL databases
+- Cache for in-memory databases (for example, REDIS)
+- Data warehousing applications
+- Distributed file systems
