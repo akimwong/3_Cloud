@@ -21,3 +21,6 @@
 - Downloading common files from the internet
 - ...
 4. The EC2 User Data Script runs with the root user
+
+  
+** When you stop an instance and then started again after a little while, the public IPv4 is going to be changed.  So we're going to get a new public IPv4.  The private IPv4 will not have change.
