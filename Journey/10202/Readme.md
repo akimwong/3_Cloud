@@ -4,5 +4,5 @@
 - For each type of instance we have different families
 - Naming convention:
 
-<p align="left">
-  <img src="/Journey/10202/ec2.PNG" width="300" height="150"></p>
+<p align="center">
+  <img src="/Journey/10202/ec2.PNG" width="300" height="140"></p>
