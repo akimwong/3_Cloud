@@ -13,7 +13,7 @@
 - With a good balance between Compute - Memory - Networking
 
 ### COMPUTE OPTIMIZED:
-(C6g, C6gn, C5, C5a, C5n, C4)    C: COMPUTE
+(C6g, C6gn, C5, C5a, C5n, C4)    C: COMPUTE <br/>
 Great for compute-intensive task that require high performance processors 
 - Batch processing workloads
 - Media transcoding
