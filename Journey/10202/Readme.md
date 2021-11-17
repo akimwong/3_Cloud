@@ -5,4 +5,4 @@
 - Naming convention:
 
 <p align="left">
-  <img src="ec2.png" width="50" height="50"></p>
+  <img src="/10202/ec2.png" width="50" height="50"></p>
