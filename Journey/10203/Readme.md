@@ -8,7 +8,7 @@
 3. Control of inbound network (from the outside to the instance)
 4. Control of outbound network (from the instance to the outside)
 
-### SG Rules refered by IP
+### SG RULES REFERED BY IP
 <p align="center">
   <img src="/Journey/10203/sg.PNG" width="750" height="180"></p>
 
@@ -28,3 +28,5 @@
 - Is yoy receive a connection "refused error", then it's an application error or it's not launched
 - All inbound traffic is blocked by default
 - All outbound traffic is authorised by default
+
+### SG RULES REFERED BY OTHER SG
