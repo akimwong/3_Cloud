@@ -9,4 +9,4 @@
 4. Control of outbound network (from the instance to the outside)
 
 <p align="center">
-  <img src="/Journey/10203/sg.PNG" width="800" height="140"></p>
+  <img src="/Journey/10203/sg.PNG" width="600" height="140"></p>
