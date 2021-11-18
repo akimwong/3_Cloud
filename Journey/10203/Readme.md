@@ -8,7 +8,10 @@
 3. Control of inbound network (from the outside to the instance)
 4. Control of outbound network (from the instance to the outside)
 
-- Rules:
+- Security Group Rules:
 <p align="center">
   <img src="/Journey/10203/sg.PNG" width="750" height="180"></p>
-1.
+1. Type
+2. Protocol
+3. Port Range.  Where the traffic can go through on the instance
+4. Source.  IP address range
