@@ -37,3 +37,7 @@
   <img src="/Journey/10203/sg3.png" width="450" height="180"></p>
   
 We have an EC2 instance with SG1. We have authorized SG1 & SG2 to have inbound access to the same. Now, other EC2 instances associated with SG1 & 2 can access the first EC2 instance. However, the third EC2 instances having SG3 cannot access the first EC2 instance
+
+## CLASSIC PORTS TO KNOW
+
+
