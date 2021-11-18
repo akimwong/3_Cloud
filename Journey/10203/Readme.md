@@ -34,3 +34,5 @@
 
 <p align="center">
   <img src="/Journey/10203/sg3.png" width="450" height="180"></p>
+  
+We have an EC2 instance with Security Group 1. We have authorized Security Group 1 & 2 to have inbound access to the same. Now, other EC2 instances associated with Security Group 1 & 2 can access the first EC2 instance. However, the third EC2 instances having Security Group 3 cannot access the first EC2 instance
