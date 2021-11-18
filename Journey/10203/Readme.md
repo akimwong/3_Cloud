@@ -9,7 +9,7 @@
 3. Control of inbound network (from the outside to the instance)
 4. Control of outbound network (from the instance to the outside)
 
-### SG RULES REFERED BY IP
+### SG RULES
 <p align="center">
   <img src="/Journey/10203/sg.PNG" width="750" height="180"></p>
 
@@ -19,9 +19,6 @@
 4. Source.  To specify the source or destination for the traffic. We can specify a IPv4 address, IPv6 address, range of IPv4 or IPv6 addresses, **another security group** and so on
 5. Description.  To add some description to the rule for documentation purposes
 
-<p align="center">
-  <img src="/Journey/10203/sg2.png" width="450" height="180"></p>
-  
 - There's not a one to one relationship between SG and instances.  SG can be attached to multiple instances, an instance can have multiple SG too
 - Are locked down to a Region-VPC combination
 - SG live outside the EC2.  If the traffic is blocked the EC2 instance won't even see it
@@ -31,8 +28,13 @@
 - All inbound traffic is blocked by default
 - All outbound traffic is authorised by default
 
-### SG RULES REFERED BY OTHER SG
+### SG ACCESS BASED ON IP ADDRESS
 
+<p align="center">
+  <img src="/Journey/10203/sg2.png" width="450" height="180"></p>
+
+
+### SG RULES REFERED BY OTHER SG
 
 <p align="center">
   <img src="/Journey/10203/sg3.png" width="450" height="180"></p>
