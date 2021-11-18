@@ -40,4 +40,11 @@ We have an EC2 instance with SG1. We have authorized SG1 & SG2 to have inbound a
 
 ## CLASSIC PORTS TO KNOW
 
+- 22 = SSH (Secure Shell) - log into a LINUX instance
+- 21 = FTP (File Transfer Protocol) - Is used to upload files into a file share
+- 22 = SFTP (Secure File Transfer Protocol) - Upload files using SSH
+- 80 = HTTP - Access unsecuresd websites
+- 443 = HTTPS - Access secured websites
+- 3389 = RDP (Remote Desktop Protocol) - log into a Windows instance
+
 
