@@ -21,4 +21,10 @@
   <img src="/Journey/10203/sg2.png" width="450" height="180"></p>
   
 - There's not a one to one relationship between SG and instances.  SG can be attached to multiple instances, an instance can have multiple SG too
-- 
+- Are locked down to a Region-VPC combination
+- SG live outside the EC2.  If the traffic is blocked the EC2 instance won't even see it
+- It's good to maintain one separate SG for SSH access (usually SSH access is the most complicated thing and you really wanna make sure that one is done correctly)
+- If your application is not accesible (time out), then it's a SG issue
+- Is yoy receive a connection "refused error", then it's an application error or it's not launched
+- All inbound traffic is blocked by default
+- All outbound traffic is authorised by default
