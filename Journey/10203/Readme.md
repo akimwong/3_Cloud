@@ -2,7 +2,7 @@
 
 - They control how traffic is allowed into of our EC2 instances (they only contain **allow** rules)
 - Rules can reference by IP (where your computer is from) or by other SG
-- If more than one rule is specified for a particular port then the most permissive rule holds precedence. For example, if you have a Rule 1 that allows access to port 22 from IP address 192.168.0.1 and Rule 2 that allows access to port 22 from everyone, Rule 2 will be effective. Everyone will have access to port 22
+- If more than one rule is specified for a particular port then **the most permissive** rule holds precedence. For example, if you have a Rule 1 that allows access to port 22 from IP address 192.168.0.1 and Rule 2 that allows access to port 22 from everyone, Rule 2 will be effective. Everyone will have access to port 22
 - SG are a firewall on our EC2 instances and they're going to regulate:
 1. Access to ports
 2. Authorised IP ranges - IPv4 and IPv6
