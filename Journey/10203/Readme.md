@@ -14,9 +14,10 @@
   <img src="/Journey/10203/sg.PNG" width="750" height="180"></p>
 
 1. Type
-2. Protocol
+2. Protocol.  Protocol that we wish to allow
 3. Port Range.  Where the traffic can go through on the instance
-4. Source.  To specify the source or destination for the traffic. We can specify a IPv4 address, IPv6 address, range of IPv4 or IPv6 addresses, **another security group** and so on.
+4. Source.  To specify the source or destination for the traffic. We can specify a IPv4 address, IPv6 address, range of IPv4 or IPv6 addresses, **another security group** and so on
+5. Description.  To add some description to the rule for documentation purposes
 
 <p align="center">
   <img src="/Journey/10203/sg2.png" width="450" height="180"></p>
