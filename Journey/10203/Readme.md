@@ -34,6 +34,9 @@
 <p align="center">
   <img src="/Journey/10203/sg2.png" width="450" height="180"></p>
 
+As per the rule only our computer with a certain IP address can access the EC2 instance over port 22. All other computers are unauthorized. By default, the outbound access is open.
+
+This approach is known as **Filtering based on IP and Port**
 
 ### SG RULES REFERED BY OTHER SG
 
