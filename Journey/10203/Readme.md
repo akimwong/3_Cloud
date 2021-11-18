@@ -8,7 +8,7 @@
 3. Control of inbound network (from the outside to the instance)
 4. Control of outbound network (from the instance to the outside)
 
-- SG Rules:
+### SG Rules refered by IP
 <p align="center">
   <img src="/Journey/10203/sg.PNG" width="750" height="180"></p>
 
