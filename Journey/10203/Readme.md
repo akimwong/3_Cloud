@@ -7,3 +7,6 @@
 2. Authorised IP ranges - IPv4 and IPv6
 3. Control of inbound network (from the outside to the instance)
 4. Control of outbound network (from the instance to the outside)
+
+<p align="center">
+  <img src="/Journey/10203/sg.PNG" width="300" height="140"></p>
