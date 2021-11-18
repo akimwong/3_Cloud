@@ -16,7 +16,7 @@
 1. Type
 2. Protocol
 3. Port Range.  Where the traffic can go through on the instance
-4. Source.  IP address range
+4. Source.  To specify the source or destination for the traffic. We can specify a IPv4 address, IPv6 address, range of IPv4 or IPv6 addresses, **another security group** and so on.
 
 <p align="center">
   <img src="/Journey/10203/sg2.png" width="450" height="180"></p>
