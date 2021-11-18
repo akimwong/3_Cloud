@@ -31,7 +31,7 @@ Fast performance for workloads that process large data sets in memory
 - Applications performing real-time processing of big unstructured data 
 
 ### STORAGE OPTIMIZED
-(l3, l3en, D2, D3, D3en, H1)<br/>
+(l3, l3en, D2, D3, D3en, H1)   D: DISK<br/>
 Great for storage-intensive tasks that require high, sequential read and write access to large data sets on local storage
 - High frequency online transaction processing (OLTP) systems
 - Relational & NoSQL databases
