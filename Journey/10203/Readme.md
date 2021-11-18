@@ -11,6 +11,7 @@
 - Security Group Rules:
 <p align="center">
   <img src="/Journey/10203/sg.PNG" width="750" height="180"></p>
+
 1. Type
 2. Protocol
 3. Port Range.  Where the traffic can go through on the instance
