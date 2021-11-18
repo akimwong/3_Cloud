@@ -23,6 +23,7 @@ The IDE used to write the code is Jupyter Notebooks (in local or using Google Co
 ## 1.2. EC2 Fundamentals
 - [ ] ☁️ 1.2.1. > [EC2 Basics (!)](Journey/10201)
 - [ ] ☁️ 1.2.2. > [EC2 Instance Types Basics (!)](Journey/10202)
+- [ ] ☁️ 1.2.3. > [Security Groups & Classic Ports Overview (!)](Journey/10203)
 
 ## 1.3. EC2 Solutions Architect Associate Level
 
