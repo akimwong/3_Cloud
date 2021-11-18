@@ -30,3 +30,7 @@
 - All outbound traffic is authorised by default
 
 ### SG RULES REFERED BY OTHER SG
+
+
+<p align="center">
+  <img src="/Journey/10203/sg3.png" width="450" height="180"></p>
