@@ -16,3 +16,6 @@
 2. Protocol
 3. Port Range.  Where the traffic can go through on the instance
 4. Source.  IP address range
+
+<p align="center">
+  <img src="/Journey/10203/sg2.PNG" width="750" height="180"></p>
