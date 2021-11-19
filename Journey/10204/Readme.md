@@ -5,4 +5,4 @@
 - Is a command line interface utility 
 
 <p align="center">
-  <img src="/Journey/10204/ssh.PNG" width="750" height="180"></p>
+  <img src="/Journey/10204/ssh.PNG" width="550" height="180"></p>
