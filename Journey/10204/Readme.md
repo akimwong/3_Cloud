@@ -4,3 +4,5 @@
 - Based on the OS you have on your computer (Mac, Linux, Wondows <10, windows >=10) you have different ways of achieveng it
 - Is a command line interface utility 
 
+<p align="center">
+  <img src="/Journey/10204/ssh.PNG" width="750" height="180"></p>
