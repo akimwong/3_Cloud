@@ -123,7 +123,7 @@ The IDE used to write the code is Jupyter Notebooks (in local or using Google Co
 
 ## 3.4. Analysis
 
-## 3.5. Visualizationn
+## 3.5. Visualization
 
 ## 3.6. Security
 
