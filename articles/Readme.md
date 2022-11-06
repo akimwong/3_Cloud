@@ -1,2 +1,3 @@
 - [AWS Solutions Architect Associate](https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/)
 - [Build a Serverless Application using AWS SAM](https://towardsaws.com/build-a-serverless-application-using-aws-sam-247c2c6f18c7)
+- [Networking Basics in AWS](https://towardsaws.com/networking-basics-in-aws-ab72882855c4)
