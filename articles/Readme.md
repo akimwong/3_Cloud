@@ -1,3 +1,5 @@
 - [AWS Solutions Architect Associate](https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/)
 - [Build a Serverless Application using AWS SAM](https://towardsaws.com/build-a-serverless-application-using-aws-sam-247c2c6f18c7)
 - [Networking Basics in AWS](https://towardsaws.com/networking-basics-in-aws-ab72882855c4)
+- [Issues to Avoid When Implementing Serverless Architecture with AWS Lambda](https://aws.amazon.com/es/blogs/architecture/mistakes-to-avoid-when-implementing-serverless-architecture-with-lambda/)
+- [Speed up Hugging Face Training Jobs on AWS by Up to 50% with SageMaker Training Compiler](https://towardsdatascience.com/speed-up-hugging-face-training-jobs-on-aws-by-up-to-50-with-sagemaker-training-compiler-9ad2ac5b0eb)
