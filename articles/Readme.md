@@ -5,3 +5,4 @@
 - [Speed up Hugging Face Training Jobs on AWS by Up to 50% with SageMaker Training Compiler](https://towardsdatascience.com/speed-up-hugging-face-training-jobs-on-aws-by-up-to-50-with-sagemaker-training-compiler-9ad2ac5b0eb)
 - [AWS Managed Workflows for Apache Airflow vs. Glue](https://towardsdatascience.com/aws-managed-workflows-for-apache-airflow-vs-glue-184eca9e6996)
 - [Tips for Passing AWS Certification Exams Like a Boss](https://benellis.cloud/tips-for-passing-aws-certification-exams)
+- [AWS IAM Part 2 — Identity Based and Resource Based Policy](https://towardsaws.com/aws-iam-part-2-identity-based-and-resource-based-policy-225cf96cf9e2)
