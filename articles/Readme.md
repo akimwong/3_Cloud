@@ -7,3 +7,4 @@
 - [Tips for Passing AWS Certification Exams Like a Boss](https://benellis.cloud/tips-for-passing-aws-certification-exams)
 - [AWS IAM Part 2 — Identity Based and Resource Based Policy](https://towardsaws.com/aws-iam-part-2-identity-based-and-resource-based-policy-225cf96cf9e2)
 - [How to Run Machine Learning Hyperparameter Optimization in the Cloud — Part 1](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-1-7877cdd6e879)
+- [How to Run Machine Learning Hyperparameter Optimization in the Cloud — Part 2](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-2-23b1dac5ebed)
