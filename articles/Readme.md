@@ -10,3 +10,4 @@
 - [How to Run Machine Learning Hyperparameter Optimization in the Cloud — Part 2](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-2-23b1dac5ebed)
 - [Building Spark Data Pipelines in the Cloud](https://towardsdatascience.com/spark-data-pipelines-in-the-cloud-118f38ea90b7)
 - [How to Ace AWS Data Analytics Specialty Certification Exam Almost For Free](https://towardsaws.com/how-to-ace-aws-data-analytics-specialty-certification-exam-almost-for-free-667451fd480a)
+-[How to Pass the AWS Machine Learning Speciality Exam (DL)](https://towardsdatascience.com/how-to-pass-the-aws-machine-learning-speciality-exam-b00bf0f811ed)
