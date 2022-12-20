@@ -11,3 +11,4 @@
 - [Building Spark Data Pipelines in the Cloud](https://towardsdatascience.com/spark-data-pipelines-in-the-cloud-118f38ea90b7)
 - [How to Ace AWS Data Analytics Specialty Certification Exam Almost For Free](https://towardsaws.com/how-to-ace-aws-data-analytics-specialty-certification-exam-almost-for-free-667451fd480a)
 - [How to Pass the AWS Machine Learning Speciality Exam (DL)](https://towardsdatascience.com/how-to-pass-the-aws-machine-learning-speciality-exam-b00bf0f811ed)
+- [AWS Essentials for Data Science: Storage (DL)](https://towardsdatascience.com/aws-essentials-for-data-science-storage-5755afc3cb4a)
