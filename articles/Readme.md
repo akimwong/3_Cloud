@@ -13,3 +13,4 @@
 - [How to Pass the AWS Machine Learning Speciality Exam (DL)](https://towardsdatascience.com/how-to-pass-the-aws-machine-learning-speciality-exam-b00bf0f811ed)
 - [AWS Essentials for Data Science: Storage (DL)](https://towardsdatascience.com/aws-essentials-for-data-science-storage-5755afc3cb4a)
 - [Guide to Building AWS Lambda Functions from ECR Images to Manage SageMaker Inference Endpoints (DL)](https://towardsdatascience.com/guide-to-building-aws-lambda-functions-from-ecr-images-to-manage-sagemaker-inference-endpoints-4980a9b92290)
+- [AWS Essentials for Data Science: Compute (DL)](https://towardsdatascience.com/aws-essentials-for-data-science-compute-9b4c6e3b46bf)
