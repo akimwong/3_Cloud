@@ -1,5 +1,5 @@
 ## Overview
-Collection of personal tools and technology experiments. These solutions focus on practicing with new technologies to enhance individual productivity and learning. All projects are designed for local testing and development, with AWS cloud services.</p>
+Collection of personal projects and technology tests focused on practicing with new technologies to enhance individual productivity and learning. All projects are designed for local testing and development using AWS cloud services. </p>
 
 ## Projects
 
